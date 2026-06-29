@@ -17,3 +17,5 @@ venv/
 *.pyc
 *.pyo
 Thumbs.db
+
+.omc
